@@ -8,8 +8,8 @@ Solución de requerimientos
 ## Uso
 ### requisitos previos 
 Primero debemos preparar nuestro entorno para ello debemos instalar:
-* [Instalar Laravel 9]()
-* [Instalar PHP > 7.4]()
+* [Instalar Laravel 9]
+* [Instalar PHP > 7.4]
 * [Instalar MySQL](https://dev.mysql.com/downloads/)
 
 ### desplegando
